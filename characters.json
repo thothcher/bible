@@ -1,0 +1,296 @@
+[
+    {
+        "name": "Adam",
+        "icon": "🌍",
+        "age": "930 years",
+        "story": "The first man, created by God in Eden."
+    },
+    {
+        "name": "Eve",
+        "icon": "🍎",
+        "age": "Unknown",
+        "story": "The first woman, mother of all the living."
+    },
+    {
+        "name": "Cain",
+        "icon": "⚔️",
+        "age": "Unknown",
+        "story": "Son of Adam and Eve, killed his brother Abel."
+    },
+    {
+        "name": "Abel",
+        "icon": "🐑",
+        "age": "Unknown",
+        "story": "Son of Adam and Eve, offered a righteous sacrifice."
+    },
+    {
+        "name": "Seth",
+        "icon": "🌱",
+        "age": "912 years",
+        "story": "Son of Adam, ancestor of Noah."
+    },
+    {
+        "name": "Noah",
+        "icon": "⛵",
+        "age": "950 years",
+        "story": "Built the Ark and survived the Flood."
+    },
+    {
+        "name": "Shem",
+        "icon": "🏞️",
+        "age": "600 years",
+        "story": "Son of Noah, ancestor of Abraham."
+    },
+    {
+        "name": "Ham",
+        "icon": "🌴",
+        "age": "Unknown",
+        "story": "Son of Noah, father of Canaan."
+    },
+    {
+        "name": "Japheth",
+        "icon": "⛰️",
+        "age": "Unknown",
+        "story": "Son of Noah, ancestor of many nations."
+    },
+    {
+        "name": "Abraham",
+        "icon": "⭐",
+        "age": "175 years",
+        "story": "Father of nations; God’s covenant with him."
+    },
+    {
+        "name": "Sarah",
+        "icon": "⛺",
+        "age": "127 years",
+        "story": "Wife of Abraham, mother of Isaac."
+    },
+    {
+        "name": "Lot",
+        "icon": "🏠",
+        "age": "Unknown",
+        "story": "Nephew of Abraham; fled Sodom."
+    },
+    {
+        "name": "Isaac",
+        "icon": "👶",
+        "age": "180 years",
+        "story": "Son of Abraham, father of Jacob and Esau."
+    },
+    {
+        "name": "Rebekah",
+        "icon": "💧",
+        "age": "Unknown",
+        "story": "Wife of Isaac, mother of Jacob and Esau."
+    },
+    {
+        "name": "Jacob (Israel)",
+        "icon": "🪜",
+        "age": "147 years",
+        "story": "Father of the 12 tribes of Israel."
+    },
+    {
+        "name": "Esau",
+        "icon": "🏹",
+        "age": "Unknown",
+        "story": "Brother of Jacob, ancestor of Edomites."
+    },
+    {
+        "name": "Joseph",
+        "icon": "🎨",
+        "age": "110 years",
+        "story": "Dreamer, betrayed by brothers, rose in Egypt."
+    },
+    {
+        "name": "Levi",
+        "icon": "🎺",
+        "age": "137 years",
+        "story": "Son of Jacob; ancestor of Levites."
+    },
+    {
+        "name": "Judah",
+        "icon": "🦁",
+        "age": "Unknown",
+        "story": "Son of Jacob; tribe of kings and Messiah."
+    },
+    {
+        "name": "Moses",
+        "icon": "🌿",
+        "age": "120 years",
+        "story": "Led Israel from Egypt; received Ten Commandments."
+    },
+    {
+        "name": "Aaron",
+        "icon": "👕",
+        "age": "123 years",
+        "story": "Brother of Moses; Israel’s first high priest."
+    },
+    {
+        "name": "Miriam",
+        "icon": "🥁",
+        "age": "Unknown",
+        "story": "Sister of Moses; prophetess who sang after the Red Sea."
+    },
+    {
+        "name": "Joshua",
+        "icon": "🎺",
+        "age": "110 years",
+        "story": "Succeeded Moses, led Israel into Promised Land."
+    },
+    {
+        "name": "Caleb",
+        "icon": "🗻",
+        "age": "85+ years",
+        "story": "Faithful spy who trusted God’s promise."
+    },
+    {
+        "name": "Samuel",
+        "icon": "🕊️",
+        "age": "Unknown",
+        "story": "Prophet and judge; anointed Saul and David."
+    },
+    {
+        "name": "Saul",
+        "icon": "⚔️",
+        "age": "~72 years",
+        "story": "First king of Israel, later rejected by God."
+    },
+    {
+        "name": "Jonathan",
+        "icon": "🤝",
+        "age": "Unknown",
+        "story": "Son of Saul, loyal friend of David."
+    },
+    {
+        "name": "David",
+        "icon": "👑",
+        "age": "70 years",
+        "story": "Shepherd who became king; wrote many psalms."
+    },
+    {
+        "name": "Bathsheba",
+        "icon": "💧",
+        "age": "Unknown",
+        "story": "Wife of David, mother of Solomon."
+    },
+    {
+        "name": "Solomon",
+        "icon": "💡",
+        "age": "~60 years",
+        "story": "King known for wisdom; built the Temple."
+    },
+    {
+        "name": "Rehoboam",
+        "icon": "👑",
+        "age": "Unknown",
+        "story": "Son of Solomon, king during kingdom’s division."
+    },
+    {
+        "name": "Elijah",
+        "icon": "🕯️",
+        "age": "Unknown",
+        "story": "Prophet taken up to heaven in a whirlwind."
+    },
+    {
+        "name": "Elisha",
+        "icon": "💧",
+        "age": "Unknown",
+        "story": "Prophet who performed many miracles."
+    },
+    {
+        "name": "Isaiah",
+        "icon": "📜",
+        "age": "Unknown",
+        "story": "Prophet who foretold the Messiah."
+    },
+    {
+        "name": "Jeremiah",
+        "icon": "🕊️",
+        "age": "Unknown",
+        "story": "The weeping prophet, warned of exile."
+    },
+    {
+        "name": "Ezekiel",
+        "icon": "👁️",
+        "age": "Unknown",
+        "story": "Prophet who saw visions of God’s glory."
+    },
+    {
+        "name": "Daniel",
+        "icon": "🦁",
+        "age": "Unknown",
+        "story": "Survived the lions’ den through faith."
+    },
+    {
+        "name": "Shadrach",
+        "icon": "🔥",
+        "age": "Unknown",
+        "story": "One of three men saved from the fiery furnace."
+    },
+    {
+        "name": "Meshach",
+        "icon": "🔥",
+        "age": "Unknown",
+        "story": "One of three men saved from the fiery furnace."
+    },
+    {
+        "name": "Abednego",
+        "icon": "🔥",
+        "age": "Unknown",
+        "story": "One of three men saved from the fiery furnace."
+    },
+    {
+        "name": "Nehemiah",
+        "icon": "🧱",
+        "age": "Unknown",
+        "story": "Rebuilt Jerusalem’s walls after exile."
+    },
+    {
+        "name": "Ezra",
+        "icon": "📖",
+        "age": "Unknown",
+        "story": "Priest who restored the Law after exile."
+    },
+    {
+        "name": "Job",
+        "icon": "🔥",
+        "age": "~140 years",
+        "story": "Tested by suffering but remained faithful."
+    },
+    {
+        "name": "Ruth",
+        "icon": "🌾",
+        "age": "Unknown",
+        "story": "Moabite woman of faith, ancestor of David."
+    },
+    {
+        "name": "Esther",
+        "icon": "👑",
+        "age": "Unknown",
+        "story": "Queen who saved her people from destruction."
+    },
+    {
+        "name": "Deborah",
+        "icon": "⚖️",
+        "age": "Unknown",
+        "story": "Prophetess and judge who led Israel."
+    },
+    {
+        "name": "Gideon",
+        "icon": "⚔️",
+        "age": "Unknown",
+        "story": "Judge who defeated Midian with few men."
+    },
+    {
+        "name": "Samson",
+        "icon": "💪",
+        "age": "20 years judge",
+        "story": "Judge with great strength, defeated Philistines."
+    },
+    {
+        "name": "Hannah",
+        "icon": "🙏",
+        "age": "Unknown",
+        "story": "Mother of Samuel, prayed earnestly to God."
+    }
+]
