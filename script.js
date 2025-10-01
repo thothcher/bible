@@ -45,4 +45,4 @@ document.getElementById("prev").addEventListener("click", () => goToSlide(curren
 document.getElementById("next").addEventListener("click", () => goToSlide(currentIndex + 1));
 
 // Auto-play
-setInterval(() => { if (slides.length) goToSlide(currentIndex + 1); }, 5000);
+// setInterval(() => { if (slides.length) goToSlide(currentIndex + 1); }, 5000);
